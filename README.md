@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](./themes/dracula-color-theme.json)
+![Preview](./themes/preview.png)
 
 ## License
 
