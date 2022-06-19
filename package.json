@@ -1,26 +1,26 @@
 {
-    "name": "dracula-theme-from-intellij",
-    "displayName": "Darcula IntelliJ Theme",
-    "description": "A Darcula Theme inspired by IntelliJ",
-    "version": "0.3.0",
+    "name": "intellij-dracula-theme",
+    "displayName": "IntelliJ Darcula Theme",
+    "description": "A Darcula Theme inspired by IntelliJ.",
+    "version": "1.0.0",
     "license": "MIT",
-    "publisher": "trinm1709",
+    "publisher": "gkjoyes",
     "engines": {
         "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
     ],
-    "homepage": "https://github.com/kevinvn1709/vscode-dracula-color-theme",
+    "homepage": "https://github.com/gkjoyes/vscode-intellij-dracula-theme",
     "repository": {
         "type" : "git",
-        "url" : "https://github.com/kevinvn1709/vscode-dracula-color-theme.git"
+        "url" : "https://github.com/gkjoyes/vscode-intellij-dracula-theme.git"
     },
     "icon": "icon.png",
     "contributes": {
         "themes": [
             {
-                "label": "Darcula Theme from IntelliJ",
+                "label": "IntelliJ Darcula Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dracula-color-theme.json"
             }
