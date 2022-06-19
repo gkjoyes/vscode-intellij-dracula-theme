@@ -204,7 +204,7 @@
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "red"
+				"foreground": "#FF0000"
 			}
 		},
 		{
@@ -391,15 +391,15 @@
 				"fontStyle": "bold"
 			}
 		},
-		// {
-		// 	"name": "Variable call Python",
-		// 	"scope": [
-		// 		"variable.parameter.function-call.python",
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#c04524",
-		// 	}
-		// },
+		{
+			"name": "Variable call Python",
+			"scope": [
+				"variable.parameter.function-call.python",
+			],
+			"settings": {
+				"foreground": "#c04524",
+			}
+		},
 		{
 			"name": "Source Python",
 			"scope": [
