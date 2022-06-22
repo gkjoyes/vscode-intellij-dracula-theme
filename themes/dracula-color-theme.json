@@ -49,8 +49,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
@@ -183,7 +182,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#CC7832"
+				"foreground": "#e58332"
 			}
 		},
 		{
@@ -207,7 +206,7 @@
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#CC7832"
+				"foreground": "#e58332"
 			}
 		},
 		{
@@ -219,8 +218,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
@@ -238,8 +236,7 @@
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
@@ -326,15 +323,13 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
@@ -352,7 +347,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#CC7832"
+				"foreground": "#e58332"
 			}
 		},
 		{
@@ -367,7 +362,7 @@
 				"punctuation.section.embedded.end.metatag.php"
 			],
 			"settings": {
-				"foreground": "#CC7832"
+				"foreground": "#e58332"
 			}
 		},
 		{
@@ -396,8 +391,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
@@ -528,8 +522,7 @@
 			"name": "Control flow keywords",
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#CC7832",
-				"fontStyle": "bold"
+				"foreground": "#e58332",
 			}
 		},
 		{
