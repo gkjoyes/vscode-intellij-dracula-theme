@@ -19,7 +19,7 @@
 				"source.python"
 			],
 			"settings": {
-				"foreground": "#808080",
+				"foreground": "#707070",
 			}
 		},
 		{
@@ -43,7 +43,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#808080"
+				"foreground": "#707070"
 			}
 		},
 		{
@@ -232,7 +232,7 @@
 				"variable.other.jsdoc"
 			],
 			"settings": {
-				"foreground": "#808080",
+				"foreground": "#707070",
 			}
 		},
 		{
