@@ -2,4 +2,4 @@
 
 ## Preview
 
-![Preview](https://github.com/gkjoyes/vscode-intellij-dracula-theme/blob/master/themes/preview.png)
+![Preview](https://raw.githubusercontent.com/gkjoyes/vscode-intellij-dracula-theme/master/themes/preview.png)
