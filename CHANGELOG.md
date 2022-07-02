@@ -4,41 +4,50 @@
 
 ### Added
 
-- Added code from base repo.
+- Add code from base repo.
 
 ### Changed
 
-- Updated logo
-- Updated preview image.
+- Update logo
+- Update preview image.
 
 ## [1.0.1] - 2022-06-22
 
 ### Changed
 
-- Updated background color.
-- Updated font colors.
+- Update background color.
+- Update font colors.
 
 ## [1.0.2] - 2022-06-22
 
 ### Changed
 
-- Updated font colors.
+- Update font colors.
 
 ## [1.0.3] - 2022-06-22
 
 ### Changed
 
-- Updated font colors.
+- Update font colors.
 
 ## [1.0.4] - 2022-06-22
 
 ### Changed
 
-- Updated font colors.
-- Updated preview image.
+- Update font colors.
+- Update preview image.
 
 ## [1.0.5] - 2022-06-22
 
 ### Added
 
-- Added change log.
+- Add change log.
+
+## [1.0.6] - 2022-07-02
+
+### Changed
+
+- Change html attribute name color.
+- Change python support functions color.
+- Change css property value color.
+- Change javascript punctuation separator color.
