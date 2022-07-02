@@ -51,3 +51,10 @@
 - Change python support functions color.
 - Change css property value color.
 - Change javascript punctuation separator color.
+
+## [1.0.7] - 2022-07-02
+
+### Changed
+
+- Change css property name color.
+- Change css tag name color.
