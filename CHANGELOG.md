@@ -58,3 +58,9 @@
 
 - Change css property name color.
 - Change css tag name color.
+
+## [1.0.8] - 2022-07-23
+
+### Changed
+
+- Remove groovy styles.
