@@ -609,6 +609,12 @@
 			"settings": {
 				"foreground": "#b267e6"
 			}
+		},
+		{
+			"scope": "storage.type.groovy",
+			"settings": {
+				"foreground": "#D4D4D4"
+			}
 		}
 	]
 }

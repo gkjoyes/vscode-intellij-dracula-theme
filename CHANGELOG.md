@@ -64,3 +64,9 @@
 ### Changed
 
 - Remove groovy styles.
+
+## [1.0.9] - 2022-07-24
+
+### Changed
+
+- Update groovy storage type foreground color.

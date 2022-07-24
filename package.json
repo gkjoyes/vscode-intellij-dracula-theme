@@ -2,7 +2,7 @@
     "name": "intellij-dracula-theme",
     "displayName": "IntelliJ Darcula Theme",
     "description": "A Darcula Theme inspired by IntelliJ.",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "license": "MIT",
     "publisher": "gkjoyes",
     "engines": {
@@ -13,8 +13,8 @@
     ],
     "homepage": "https://github.com/gkjoyes/vscode-intellij-dracula-theme",
     "repository": {
-        "type" : "git",
-        "url" : "https://github.com/gkjoyes/vscode-intellij-dracula-theme.git"
+        "type": "git",
+        "url": "https://github.com/gkjoyes/vscode-intellij-dracula-theme.git"
     },
     "icon": "icon.png",
     "contributes": {
