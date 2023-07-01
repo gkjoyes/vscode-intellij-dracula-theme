@@ -50,7 +50,7 @@
 		{
 			"scope": "meta.property-value.css",
 			"settings": {
-				"foreground": "#6a8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
@@ -267,25 +267,25 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#6A8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#6A8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#6A8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#6A8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
@@ -583,7 +583,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#6a8759"
+				"foreground": "#6a825c"
 			}
 		},
 		{
