@@ -2,7 +2,7 @@
 	"type": "dark",
 	"colors": {
 		"list.dropBackground": "#383b3d",
-		"editor.foreground": "#d4d4d4",
+		"editor.foreground": "#c7c7c7",
 		"editor.background": "#060606",
 		"sideBar.background": "#1e1e1f",
 		"editor.lineHighlightBackground": "#2A2A2B",
@@ -14,7 +14,7 @@
 		{
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 		{
 			"scope": "punctuation.separator.key-value.js",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -140,13 +140,13 @@
 		{
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 				"punctuation.definition.template-expression.end.js"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 				"entity.name.type.module"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -342,7 +342,7 @@
 				"variable.other.readwrite.alias"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -360,7 +360,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -409,7 +409,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -434,7 +434,7 @@
 				"source.python"
 			],
 			"settings": {
-				"foreground": "#d4d4d4",
+				"foreground": "#c7c7c7",
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 				"storage.type.function.arrow"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#c7c7c7"
 			}
 		},
 		{
@@ -613,7 +613,7 @@
 		{
 			"scope": "storage.type.groovy",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#c7c7c7"
 			}
 		}
 	]
