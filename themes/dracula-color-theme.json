@@ -106,7 +106,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#e2ab54"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 			"name": "brackets of XML/HTML tags",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#e2ab54"
 			}
 		},
 		{
@@ -464,7 +464,7 @@
 				"meta.function-call.generic.python",
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#e2ab54",
 			}
 		},
 		{
@@ -475,7 +475,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#e2ab54"
 			}
 		},
 		{
@@ -511,7 +511,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#FFC66D"
+				"foreground": "#e2ab54"
 			}
 		},
 		{
