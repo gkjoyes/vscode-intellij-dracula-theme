@@ -23,7 +23,7 @@
 				"entity.other.attribute-name.id.css"
 			],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -38,13 +38,13 @@
 		{
 			"scope": "entity.other.attribute-name.html",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#9c77af"
 			}
 		},
 		{
 			"scope": "support.type.python",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 		{
 			"scope": "meta.selector",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -225,7 +225,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -309,7 +309,7 @@
 				"variable.other.less"
 			],
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -393,7 +393,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -443,7 +443,7 @@
 				"support.function.magic.python"
 			],
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#9c77af",
 			}
 		},
 		{
@@ -453,7 +453,7 @@
 				"variable.parameter.function.language.special.self.python"
 			],
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#9c77af",
 				"fontStyle": "",
 			}
 		},
@@ -558,7 +558,7 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
@@ -568,7 +568,7 @@
 				"meta.object-literal.key entity.name.function"
 			],
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#9c77af"
 			}
 		},
 		{
